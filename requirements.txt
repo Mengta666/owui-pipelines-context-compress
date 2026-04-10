@@ -1,0 +1,7 @@
+pydantic>=2.0
+requests>=2.31.0
+tiktoken>=0.7.0
+
+# Optional: only needed for legacy filter under function 旧版/filters/
+# aiohttp>=3.9.0
+
